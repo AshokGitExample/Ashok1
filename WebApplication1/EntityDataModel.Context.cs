@@ -7,16 +7,16 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebApplication1.Data
+namespace WebApplication1
 {
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class VenkataAshokEntities : DbContext
+    public partial class HotelManagementEntities : DbContext
     {
-        public VenkataAshokEntities()
-            : base("name=VenkataAshokEntities")
+        public HotelManagementEntities()
+            : base("name=HotelManagementEntities")
         {
         }
     
@@ -25,6 +25,6 @@ namespace WebApplication1.Data
             throw new UnintentionalCodeFirstException();
         }
     
-        public DbSet<ContractDetail> ContractDetails { get; set; }
+        public DbSet<HotelCustomerDetail> HotelCustomerDetails { get; set; }
     }
 }

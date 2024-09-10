@@ -71,6 +71,6 @@ D:\Practice\PracticeWebApplication\WebApplication1\bin\Microsoft.AspNet.Friendly
 D:\Practice\PracticeWebApplication\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Practice\PracticeWebApplication\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
 D:\Practice\PracticeWebApplication\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
-D:\Practice\PracticeWebApplication\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 D:\Practice\PracticeWebApplication\WebApplication1\obj\Debug\WebApplication1.dll
 D:\Practice\PracticeWebApplication\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Practice\PracticeWebApplication\WebApplication1\obj\Debug\WebAppli.7D14BD69.Up2Date

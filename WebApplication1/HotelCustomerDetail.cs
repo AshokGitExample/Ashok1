@@ -7,20 +7,19 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebApplication1.Data
+namespace WebApplication1
 {
     using System;
     using System.Collections.Generic;
     
-    public partial class ContractDetail
+    public partial class HotelCustomerDetail
     {
-        public int Pk_ContractID { get; set; }
-        public int ContractID { get; set; }
-        public string ContractName { get; set; }
-        public string City { get; set; }
-        public string Email { get; set; }
-        public Nullable<System.DateTime> DOB { get; set; }
-        public string MobileNo { get; set; }
+        public int Pk_CustomerID { get; set; }
+        public int C_ID { get; set; }
+        public string C_Name { get; set; }
+        public string C_Num { get; set; }
+        public string C_Email { get; set; }
+        public Nullable<int> R_Num { get; set; }
         public Nullable<System.DateTime> CreatedDate { get; set; }
     }
 }

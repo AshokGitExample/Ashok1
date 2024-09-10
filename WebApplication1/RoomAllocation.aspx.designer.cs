@@ -11,7 +11,7 @@ namespace WebApplication1
 {
 
 
-    public partial class ContractWebForm
+    public partial class RoomAllocation
     {
 
         /// <summary>
@@ -42,13 +42,13 @@ namespace WebApplication1
         protected global::System.Web.UI.WebControls.TextBox Name;
 
         /// <summary>
-        /// City control.
+        /// CNum control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox City;
+        protected global::System.Web.UI.WebControls.TextBox CNum;
 
         /// <summary>
         /// Email control.
@@ -60,22 +60,22 @@ namespace WebApplication1
         protected global::System.Web.UI.WebControls.TextBox Email;
 
         /// <summary>
-        /// DOB control.
+        /// RNum control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox DOB;
+        protected global::System.Web.UI.WebControls.TextBox RNum;
 
         /// <summary>
-        /// NUM control.
+        /// DrpName control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox NUM;
+        protected global::System.Web.UI.WebControls.DropDownList DrpName;
 
         /// <summary>
         /// Button2 control.
@@ -85,23 +85,5 @@ namespace WebApplication1
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Button2;
-
-        /// <summary>
-        /// ResultLabel control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label ResultLabel;
-
-        /// <summary>
-        /// GridView1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView GridView1;
     }
 }
